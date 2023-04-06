@@ -1,0 +1,11 @@
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.csproj.AssemblyReference.cache
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.view_login.resources
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.Properties.Resources.resources
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.csproj.GenerateResource.cache
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\bin\Debug\soma_valores.exe.config
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\bin\Debug\soma_valores.exe
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\bin\Debug\soma_valores.pdb
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.exe
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.pdb
+C:\Users\Usuário\3D Objects\estudo c#\soma_valores\soma_valores\obj\Debug\soma_valores.view_valor.resources
